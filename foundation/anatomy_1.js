@@ -1,3 +1,5 @@
+//FUNCTION DECLARATION
+
 function sayHello(){
     console.log('hello!')
 }
