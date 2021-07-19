@@ -1,4 +1,5 @@
 // create a range function
+
 function range(a, b, s =1){
     const n1 = b === undefined ? 1 : a 
     const n2 = b === undefined ? a: b
